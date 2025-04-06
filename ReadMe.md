@@ -74,6 +74,8 @@ The following insights were drawn from analyzing the data:
 
 - Portharcourt branch is generating more income than Lagos then Abuja. There isn't much difference in the revenue generation for the 3 branches.
 
+![plot of Income across the different branches](Income_per_Location.png)
+
 - In order of usage, the most popular payment methods are Epay, Cash then Card
 
 - In terms of quantity of items bought, electronic accessories and Food beverages come tops where health and beauty items are least purchased
